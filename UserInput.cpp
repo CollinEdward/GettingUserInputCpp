@@ -1,10 +1,12 @@
 #include <iostream>
 
+using namespacestd;
+
 int main() {
     int x;
-    std::cout << "Type your age: ";
-    std::cin >> x;
-    std::cout << "Your age is: " << x; 
+    cout << "Type your age: ";
+    cin >> x;
+    cout << "Your age is: " << x; 
 
 
 }
